@@ -1,5 +1,13 @@
 # Strategic Financial Intelligence Dashboard: An Analytics & Design Transformation
 
+## 📊 Dashboard Preview
+
+Here is the final interactive executive dashboard canvas built entirely within Microsoft Excel:
+
+![Interactive Financial Dashboard](Dashboard%20Screenshot.jpg)
+
+---
+
 ## Project Overview
 This project demonstrates a complete data analytics transformation: taking a raw, unstructured financial transaction ledger and building a boardroom-ready, interactive executive dashboard in Microsoft Excel. 
 
@@ -25,8 +33,8 @@ Modern organizational leadership relies heavily on data literacy. This project s
 ---
 
 ## Repository Structure & Files
-* `Financial_Expenses_Dashboard.xlsx`: The core interactive workspace containing the raw backend datasets, data modeling layouts, PivotTables, and the front-facing UI canvas.
-* `470b94ba-9026-4184-8553-fc8088669157.jpg`: High-resolution dashboard preview image used for documentation.
+* `Financial_Expense_Dashboard.xlsx`: The core interactive workspace containing the raw backend datasets, data modeling layouts, PivotTables, and the front-facing UI canvas.
+* `Dashboard Screenshot.jpg`: High-resolution dashboard preview image used for documentation.
 
 ---
 
